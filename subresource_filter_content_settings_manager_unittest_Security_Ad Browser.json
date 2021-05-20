@@ -1,1 +1,1556 @@
-
+)]}'
+{
+  "regions": [
+    {
+      "start": 1,
+      "count": 4,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 5,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "97dde4e681d09822423e59c6a9dd7c5ece27283b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-04-24 16:35:50"
+      }
+    },
+    {
+      "start": 6,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 7,
+      "count": 3,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 10,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 11,
+      "count": 3,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 14,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 15,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "7aede3dfb938e2e451b3d2c044dd3fe46e331de3",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2018-02-13 14:47:48"
+      }
+    },
+    {
+      "start": 16,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 18,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 19,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 20,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 21,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 22,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "97dde4e681d09822423e59c6a9dd7c5ece27283b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-04-24 16:35:50"
+      }
+    },
+    {
+      "start": 23,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 25,
+      "count": 3,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 28,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "305d75ac425d66c5c05fe25873af3f28d1bd148f",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-16 19:47:18"
+      }
+    },
+    {
+      "start": 30,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 32,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 33,
+      "count": 3,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 36,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "305d75ac425d66c5c05fe25873af3f28d1bd148f",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-16 19:47:18"
+      }
+    },
+    {
+      "start": 37,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 39,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "97dde4e681d09822423e59c6a9dd7c5ece27283b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-04-24 16:35:50"
+      }
+    },
+    {
+      "start": 40,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 41,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "97dde4e681d09822423e59c6a9dd7c5ece27283b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-04-24 16:35:50"
+      }
+    },
+    {
+      "start": 42,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 44,
+      "count": 3,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "305d75ac425d66c5c05fe25873af3f28d1bd148f",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-16 19:47:18"
+      }
+    },
+    {
+      "start": 47,
+      "count": 3,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 50,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "8c0554a8ee2573e6ffc77203b00d657757d2ae8c",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-22 16:02:34"
+      }
+    },
+    {
+      "start": 51,
+      "count": 3,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 54,
+      "count": 4,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 58,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 59,
+      "count": 4,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 63,
+      "count": 4,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 67,
+      "count": 4,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "305d75ac425d66c5c05fe25873af3f28d1bd148f",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-16 19:47:18"
+      }
+    },
+    {
+      "start": 71,
+      "count": 5,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 76,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "239d4798dfeee56d5b6feb44060a086c88e00557",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-13 02:42:31"
+      }
+    },
+    {
+      "start": 78,
+      "count": 4,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 82,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "08a0e3ee7ad01c643155daf1c95a70954fe05c00",
+      "author": {
+        "name": "tbansal",
+        "email": "tbansal@chromium.org",
+        "time": "2017-06-30 21:30:08"
+      }
+    },
+    {
+      "start": 83,
+      "count": 6,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 89,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 90,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 92,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 93,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "305d75ac425d66c5c05fe25873af3f28d1bd148f",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-16 19:47:18"
+      }
+    },
+    {
+      "start": 94,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 95,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3e994584017266c058161d4bd8856816191aeae5",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-14 01:07:03"
+      }
+    },
+    {
+      "start": 96,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 97,
+      "count": 6,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 103,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "97dde4e681d09822423e59c6a9dd7c5ece27283b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-04-24 16:35:50"
+      }
+    },
+    {
+      "start": 104,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 106,
+      "count": 12,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 118,
+      "count": 7,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3e994584017266c058161d4bd8856816191aeae5",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-14 01:07:03"
+      }
+    },
+    {
+      "start": 125,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "97dde4e681d09822423e59c6a9dd7c5ece27283b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-04-24 16:35:50"
+      }
+    },
+    {
+      "start": 126,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 127,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 128,
+      "count": 3,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 131,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "97dde4e681d09822423e59c6a9dd7c5ece27283b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-04-24 16:35:50"
+      }
+    },
+    {
+      "start": 132,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "5ce9a842e75528da201d21f2571eb7dba991d044",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-12 19:16:16"
+      }
+    },
+    {
+      "start": 133,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "239d4798dfeee56d5b6feb44060a086c88e00557",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-13 02:42:31"
+      }
+    },
+    {
+      "start": 135,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "5ce9a842e75528da201d21f2571eb7dba991d044",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-12 19:16:16"
+      }
+    },
+    {
+      "start": 136,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 137,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "239d4798dfeee56d5b6feb44060a086c88e00557",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-13 02:42:31"
+      }
+    },
+    {
+      "start": 139,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "5ce9a842e75528da201d21f2571eb7dba991d044",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-12 19:16:16"
+      }
+    },
+    {
+      "start": 141,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 142,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "239d4798dfeee56d5b6feb44060a086c88e00557",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-13 02:42:31"
+      }
+    },
+    {
+      "start": 144,
+      "count": 3,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 147,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 149,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "97dde4e681d09822423e59c6a9dd7c5ece27283b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-04-24 16:35:50"
+      }
+    },
+    {
+      "start": 150,
+      "count": 3,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 153,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "239d4798dfeee56d5b6feb44060a086c88e00557",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-13 02:42:31"
+      }
+    },
+    {
+      "start": 154,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 155,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 156,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 157,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 159,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "239d4798dfeee56d5b6feb44060a086c88e00557",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-13 02:42:31"
+      }
+    },
+    {
+      "start": 160,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 161,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 163,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 164,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 166,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "97dde4e681d09822423e59c6a9dd7c5ece27283b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-04-24 16:35:50"
+      }
+    },
+    {
+      "start": 167,
+      "count": 5,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 172,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "239d4798dfeee56d5b6feb44060a086c88e00557",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-13 02:42:31"
+      }
+    },
+    {
+      "start": 174,
+      "count": 4,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 178,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "239d4798dfeee56d5b6feb44060a086c88e00557",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-13 02:42:31"
+      }
+    },
+    {
+      "start": 180,
+      "count": 5,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    },
+    {
+      "start": 185,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 186,
+      "count": 15,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 201,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "305d75ac425d66c5c05fe25873af3f28d1bd148f",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-16 19:47:18"
+      }
+    },
+    {
+      "start": 202,
+      "count": 8,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 210,
+      "count": 13,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "8c0554a8ee2573e6ffc77203b00d657757d2ae8c",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-22 16:02:34"
+      }
+    },
+    {
+      "start": 223,
+      "count": 4,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 227,
+      "count": 10,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 237,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 238,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 239,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "239d4798dfeee56d5b6feb44060a086c88e00557",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-13 02:42:31"
+      }
+    },
+    {
+      "start": 240,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 241,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 243,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 244,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 245,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 246,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 247,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 248,
+      "count": 13,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 261,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 262,
+      "count": 4,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 266,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 267,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 268,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 269,
+      "count": 3,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 272,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "239d4798dfeee56d5b6feb44060a086c88e00557",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-13 02:42:31"
+      }
+    },
+    {
+      "start": 273,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 274,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 275,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 276,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 277,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 278,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 280,
+      "count": 4,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "5ce9a842e75528da201d21f2571eb7dba991d044",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-12 19:16:16"
+      }
+    },
+    {
+      "start": 284,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "239d4798dfeee56d5b6feb44060a086c88e00557",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-13 02:42:31"
+      }
+    },
+    {
+      "start": 286,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "5ce9a842e75528da201d21f2571eb7dba991d044",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-12 19:16:16"
+      }
+    },
+    {
+      "start": 287,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f1f032e64562f3c6212fcd5cef20959812dcf40",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-17 15:20:26"
+      }
+    },
+    {
+      "start": 288,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "5ce9a842e75528da201d21f2571eb7dba991d044",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-12 19:16:16"
+      }
+    },
+    {
+      "start": 289,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "239d4798dfeee56d5b6feb44060a086c88e00557",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-13 02:42:31"
+      }
+    },
+    {
+      "start": 291,
+      "count": 4,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "5ce9a842e75528da201d21f2571eb7dba991d044",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-12 19:16:16"
+      }
+    },
+    {
+      "start": 295,
+      "count": 3,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "305d75ac425d66c5c05fe25873af3f28d1bd148f",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-16 19:47:18"
+      }
+    },
+    {
+      "start": 298,
+      "count": 14,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "7aede3dfb938e2e451b3d2c044dd3fe46e331de3",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2018-02-13 14:47:48"
+      }
+    },
+    {
+      "start": 312,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "305d75ac425d66c5c05fe25873af3f28d1bd148f",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-16 19:47:18"
+      }
+    },
+    {
+      "start": 314,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "8c0554a8ee2573e6ffc77203b00d657757d2ae8c",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-22 16:02:34"
+      }
+    },
+    {
+      "start": 315,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "183ad2f45380b3ec4a4c2afc71e841e21fc5e6cb",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-10-23 16:11:51"
+      }
+    },
+    {
+      "start": 316,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "8c0554a8ee2573e6ffc77203b00d657757d2ae8c",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-22 16:02:34"
+      }
+    },
+    {
+      "start": 317,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "183ad2f45380b3ec4a4c2afc71e841e21fc5e6cb",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-10-23 16:11:51"
+      }
+    },
+    {
+      "start": 318,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "8c0554a8ee2573e6ffc77203b00d657757d2ae8c",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-22 16:02:34"
+      }
+    },
+    {
+      "start": 319,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "183ad2f45380b3ec4a4c2afc71e841e21fc5e6cb",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-10-23 16:11:51"
+      }
+    },
+    {
+      "start": 320,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "8c0554a8ee2573e6ffc77203b00d657757d2ae8c",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-22 16:02:34"
+      }
+    },
+    {
+      "start": 322,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "183ad2f45380b3ec4a4c2afc71e841e21fc5e6cb",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-10-23 16:11:51"
+      }
+    },
+    {
+      "start": 323,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "8c0554a8ee2573e6ffc77203b00d657757d2ae8c",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-22 16:02:34"
+      }
+    },
+    {
+      "start": 324,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "183ad2f45380b3ec4a4c2afc71e841e21fc5e6cb",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-10-23 16:11:51"
+      }
+    },
+    {
+      "start": 325,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "8c0554a8ee2573e6ffc77203b00d657757d2ae8c",
+      "author": {
+        "name": "Charles Harrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-06-22 16:02:34"
+      }
+    },
+    {
+      "start": 327,
+      "count": 2,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 329,
+      "count": 28,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 357,
+      "count": 31,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_manager_unittest.cc",
+      "commit": "3f8cdfd3ab1a3e87f90c37f3d7763483ac9e03c4",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-05-09 04:41:46"
+      }
+    },
+    {
+      "start": 388,
+      "count": 1,
+      "path": "chrome/browser/subresource_filter/subresource_filter_content_settings_observer_factory_unittest.cc",
+      "commit": "6b2ff2dfdf2c6edfe16f8fe1765b9637d250cf3b",
+      "author": {
+        "name": "csharrison",
+        "email": "csharrison@chromium.org",
+        "time": "2017-03-30 16:43:14"
+      }
+    }
+  ]
+}
